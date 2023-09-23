@@ -326,8 +326,8 @@ img{
     font-size: 35px;
 }
 
-.section-title h6{
-    font-weight: 50;
+.section-title h4{
+    font-weight: 500;
     color: var(--text-black-900);
     font-weight: bold;
     font-family: 'Raleway', sans-serif;
